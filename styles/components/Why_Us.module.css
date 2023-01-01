@@ -1,0 +1,60 @@
+.content {
+    padding: 30px;
+    background: #0d6efd;
+    border-radius: 4px;
+    color: #fff;
+}
+  
+.content h3 {
+    font-weight: 700;
+    font-size: 34px;
+    margin-bottom: 30px;
+}
+  
+.content p {
+    margin-bottom: 30px;
+  }
+  
+.content .more-btn {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 6px 30px 8px 30px;
+    color: #fff;
+    border-radius: 50px;
+    transition: all ease-in-out 0.4s;
+}
+  
+.why_us .content .more-btn i {
+    font-size: 14px;
+}
+  
+.why_us .content .more-btn:hover {
+    color: #1977cc;
+    background: #fff;
+}
+  
+.icon_boxes .icon_box {
+    text-align: center;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px 30px;
+    width: 100%;
+  }
+  
+.why_us .icon_boxes .icon_box i {
+    font-size: 40px;
+    color: #1977cc;
+    margin-bottom: 30px;
+}
+  
+.why_us .icon_boxes .icon_box h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 30px 0;
+}
+  
+.why_us .icon_boxes .icon_box p {
+    font-size: 15px;
+    color: #848484;
+}

@@ -1,0 +1,33 @@
+.space {
+    margin: 40px auto;
+
+}
+
+.about_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text_header {
+    color: #0d6efd;
+}
+
+.quote {
+    font-style: italic;
+    border-left: 3px solid #0d6efd;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.img_wrapper {
+    margin: auto;
+    max-height: 500px;
+    max-width: 500px;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+    border-radius: 4px;
+}
